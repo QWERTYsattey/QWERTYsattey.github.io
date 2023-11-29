@@ -1,1 +1,0 @@
-# QWERTYsattey.github.io
