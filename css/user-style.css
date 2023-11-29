@@ -64,6 +64,11 @@ body {
     bottom: 25%;
 }
 
-.c34901 {
-    color: #d983a6;
+.htmlpage-row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
 }
